@@ -1,0 +1,6 @@
+{
+  "name": "Bookscraft",
+  "description": "Free and open-source PDF reader, annotator, editor, and organizer with permanent embedded annotations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
